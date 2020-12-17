@@ -7,3 +7,4 @@ function unDo() {
     document.querySelector('#mainBox').style.backgroundImage = "url('')";
       document.querySelector('#mainBox').innerHTML = "Hover here again to choose the cat";
 }
+

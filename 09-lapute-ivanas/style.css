@@ -45,33 +45,43 @@ img {
 
 body {
     padding: 0;
-    margin: 10;
+    margin: 10px;
     box-sizing: border-box;
-    background-color: yellow;
+    background-color: seagreen;
 }
 
 #mainBox{
 /* line-height:650px; */
-    width: 400px;
-    height: 400px;
-    border: 10px solid plum;
+    /* width: 400px;
+    height: 400px; */
+    /* border: 10px solid plum; */
+    /* background-color: seagreen; */
     margin: 0 auto;
-    padding: 50px;
-    background-color: #8e68ff;
+    /* padding: 50px; */
+    /* background-color: #8e68ff; */
     background-image: url('');
     background-size: cover;
-    color:  purple;
+    color: royalblue;
+    font-size: 50px;
+    text-transform: uppercase;
     text-align: center;
     background-size: 100%;
-    margin-bottom:25px;
-    font-size: 150%;
-    height: 50vh;
+    /* margin-bottom:25px; */
+    /* font-size: 150%; */
+    height: 400px;
+    width: 400px;
+    margin: 10px;
+}
+
+div {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
 }
 .preview{
-    width:10%;
-    
+    width: 10%;
     border: 2px solid royalblue;
 }
 img{
-    width:95%;
+    /* width:95%; */
 }
