@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Change the DOM</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1>Let's modify with the DOM!</h1>
+
+    <button onclick="document.getElementById('changedButton').innerHTML = 'You have just clicked FIRST button'">First</button>
+    <button onclick="document.getElementById('changedButton').innerHTML = 'And now you have just clicked THIRD button'">Third</button>
+
+    <p>This won't change</p>
+    <p id="changedButton">Only text will change here</p>
+    <p>This also won't change</p>
+
+</body>
+</html>

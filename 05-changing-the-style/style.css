@@ -1,0 +1,20 @@
+button {
+    border: cornflowerblue 2px solid;
+    font-size: 30px;
+    background-color: crimson;
+}
+
+p {
+    background-color: lightgreen;
+    font-size: 40px;
+}
+
+.open {
+    display: block;
+    background-color: magenta;
+    font-size: 60px;
+}
+
+.closed {
+    display: none;
+}

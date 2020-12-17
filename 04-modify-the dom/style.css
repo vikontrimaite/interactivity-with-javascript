@@ -1,0 +1,14 @@
+button {
+    border: 5px solid yellow;
+    font-size: 40px;
+    padding: 20px;
+}
+
+p {
+    border: violet 3px solid;
+}
+
+#changedButton {
+    background-color: yellow;
+    color: blueviolet;
+}

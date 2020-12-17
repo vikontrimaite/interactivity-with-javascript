@@ -1,0 +1,19 @@
+p {
+    background-color: yellowgreen;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+
+div {
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    padding: 30px;
+}
+
+img {
+    height: 150px;
+    border: steelblue 3px solid;
+    margin: 20px;
+}

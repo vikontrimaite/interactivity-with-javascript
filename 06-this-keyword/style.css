@@ -1,0 +1,11 @@
+img {
+    height: 200px;
+    margin: 10px;
+}
+
+div {
+    border: mediumaquamarine 5px solid;
+    margin: 20px;
+    width: 400px;
+    text-align: center;
+}

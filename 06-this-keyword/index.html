@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>this - what is it?</title>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <h1 id="firstHeading" onclick="changeHeading()">Click somewhere and everywhere</h1>
+    <p>to reveal more text, find elements id and their innerHTML --- all by using this keyword!</p>
+
+    <div onclick="console.log(this.innerHTML)">
+        <img src="./cat1.jpeg" alt="Cute cat picture" onclick="console.log(this.alt)">
+
+        <p id="moreText" onclick="showMoreText()">Cute little cat</p>
+    </div>
+
+    <div id="fancyDiv" onclick="getId(this)">
+        <img src="./cat2.jpg" alt="Second cat" id="secondCat" onclick="getId(this)">
+        <p onclick="console.log(this.innerHTML)">This is also a cute cat</p>
+    </div>
+
+    <script src="./main.js"></script>
+</body>
+</html>
