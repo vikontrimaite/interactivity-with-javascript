@@ -4,7 +4,7 @@
 
 * This course is a bit outdated (2015) but teaches concept of DOM really well
 
-# Interesting exercises:
+## Interesting exercises:
 * [Say hello and ask for a name](https://vikontrimaite.github.io/interactivity-with-javascript/01-welcome-message/)
 * [Change DOM by listening to events](https://vikontrimaite.github.io/interactivity-with-javascript/02-listen-event/)
 * [Get the date](https://vikontrimaite.github.io/interactivity-with-javascript/03-date/)
@@ -14,10 +14,10 @@
 * [Add your favourite animal to the screen using arrays](https://vikontrimaite.github.io/interactivity-with-javascript/09-arrays/)
 * [Ask a name with a prompt](https://vikontrimaite.github.io/interactivity-with-javascript/10-hello-someone)
 
-# Personal projcets during the course:
+### Personal projcets during the course:
 * [Cat gallery](https://vikontrimaite.github.io/cat-gallery/)
 * [Simple form with all possible questions](https://vikontrimaite.github.io/simple-form/)
 
-# Homework:
+### Homework:
 * [Gallery](https://vikontrimaite.github.io/interactivity-with-javascript/08-js-gallery-homework)
 * [Biling form](https://vikontrimaite.github.io/interactivity-with-javascript/11-form-biling-homework/)
