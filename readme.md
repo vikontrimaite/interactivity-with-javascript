@@ -14,7 +14,7 @@
 * [Add your favourite animal to the screen using arrays](https://vikontrimaite.github.io/interactivity-with-javascript/09-arrays/)
 * [Ask a name with a prompt](https://vikontrimaite.github.io/interactivity-with-javascript/10-hello-someone)
 
-### Personal projcets during the course:
+### Personal projects during the course:
 * [Cat gallery](https://vikontrimaite.github.io/cat-gallery/)
 * [Simple form with all possible questions](https://vikontrimaite.github.io/simple-form/)
 
